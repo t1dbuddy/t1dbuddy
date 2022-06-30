@@ -3,7 +3,7 @@ T1D-Buddy - Privacy policy
 
 Welcome to the T1D-Buddy app for Android.
 
-This is a social networking app for people having Type 1 Diabetes.The pupose of this app to share our T1D experience with others.
+This is a social networking app for people having Type 1 Diabetes.The pupose of this app to share our T1D experience with others. Users can also enter their T1D related parameters like Sugar reading, Insulin intakes, etc. That is shown in user's dashboard and not visible to others.
 
 This app does not collect personal identification data of user. It is not open for everyone, and can be joined only if you have invitationket from an existing user.
 
